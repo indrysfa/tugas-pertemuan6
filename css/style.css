@@ -1,0 +1,57 @@
+body{
+    color: #00008B;
+    font-size: large;
+}
+.dr-trigger{
+    position: fixed;
+}
+
+/* features*/
+#feature section h4{
+    padding-top: 50px;
+}
+#feature section h1{
+    text-align: justify;
+}
+#feature section .container{
+    padding-top: 50px;
+}
+h2{
+	font-size: 24px;
+	padding-bottom: 15px;
+}
+.bottom-line{
+	width: 25px;
+	height: 3px;
+	background-color: #1E90FF;
+}
+.fea{
+	margin-top: 25px;
+}
+.fea-img {
+  width: 20%;
+}
+.heading {
+    width: 80%;
+}
+.fea i {
+    font-size: 39px;
+    color: #1E90FF;
+    margin-top: 7px;
+}
+.heading h4 {
+    font-size: 17px;
+    line-height: 1.25;
+    font-weight: 700;
+    color: #000;
+    margin: 10px 0px;
+    text-align: left;
+}
+.heading p {
+  text-align: left;
+}
+
+/* kontak */
+#kontak .row h4{
+    justify-content: center;
+}
